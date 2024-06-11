@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/tracking_flights"
+    android:initialKeyguardLayout="@layout/flight_widget"
+    android:initialLayout="@layout/flight_widget"
+    android:minWidth="180dp"
+    android:minHeight="40dp"
+    android:previewImage="@layout/flight_widget"
+    android:previewLayout="@layout/flight_widget"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="4"
+    android:targetCellHeight="2"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen" />
