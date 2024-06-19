@@ -3,6 +3,8 @@
     android:description="@string/tracking_flights"
     android:initialKeyguardLayout="@layout/flight_widget"
     android:initialLayout="@layout/flight_widget"
+    android:configure="com.alexis11hm.flightswidgetapp.ui.screens.WidgetConfigurationActivity"
+    android:widgetFeatures="reconfigurable|configuration_optional"
     android:minWidth="180dp"
     android:minHeight="40dp"
     android:previewImage="@layout/flight_widget"

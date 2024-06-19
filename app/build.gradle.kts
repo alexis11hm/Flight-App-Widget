@@ -49,6 +49,8 @@ dependencies {
 
     implementation(libs.androidx.lifecycle)
 
+    implementation(libs.androidx.datastore)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

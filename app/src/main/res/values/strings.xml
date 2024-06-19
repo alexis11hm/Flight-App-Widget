@@ -51,4 +51,11 @@
     <string name="departure_widget">Departure: %1$s</string>
     <string name="directo_widget">%1$s | Directo</string>
     <string name="arrival_widget">Arrival: %1$s</string>
+    <string name="empty" />
+    <string name="dark_theme">Dark theme</string>
+    <string name="widget_configuration">Flights widget configuration</string>
+    <string name="save_changes">Save changes</string>
+    <string name="hide_date">Hide date</string>
+    <string name="small_text_size">Small text size</string>
+    <string name="apply_changes">Apply changes</string>
 </resources>

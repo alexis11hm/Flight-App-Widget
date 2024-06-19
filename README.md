@@ -13,6 +13,14 @@ You can add the custom widget by touching and holding your finger on the home ap
 - Android native
 - Kotlin
 
+# Used Android Features
+
+- ViewBinding
+- ViewModel
+- DataStore
+- Flows
+- Coroutines
+
 # Demo
 
 ![demo](https://github.com/alexis11hm/Flight-App-Widget/blob/main/resources/flight_app_video.gif)
